@@ -1,3 +1,5 @@
+<h1 align="left">Seja bem vindo(a) ao meu perfil! 👋</h1>
+
 <p align="left">Prazer, meu nome é Kauã, moro na região metropolitana de São Paulo e sou estudante de Desenvolvimento de Sistemas no SENAI de Informática! 😉</p>
 
 ###
