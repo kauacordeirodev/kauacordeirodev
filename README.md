@@ -1,6 +1,4 @@
-<h1 align="left">Seja bem vindo(a) ao meu perfil! 👋</h1>
-
-<p align="left">Prazer, meu nome é Kauã, moro na região metropolitana de São Paulo e sou estudante de Desenvolvimento de Sistemas no SENAI de Informática! 😉</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Ol%C3%A1!+Eu+sou+Kau%C3%A3+Cordeiro;Seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 ###
 
@@ -14,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Estudante de Desenvolvimento de Sistemas<br>🎈 18 anos de idade<br>📚 Formado em Eletrônica<br>👾 Experiência com Arduino e C++<br>🖥️ Em busca de experiência na área de T.I</p>
+<p align="left">✨ Estudante de Desenvolvimento de Sistemas pelo SENAI<br>📖 Sempre em busca de conhecimento<br>📚 Formado em Técnico de Eletrônica<br>👾 Experiência com Arduino e C++<br>🖥️ Em busca de experiência na área de T.I.</p>
 
 ###
 
@@ -51,3 +49,7 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
+
+<h2>:mailbox: Contatos</h2>
+<a href = "mailto:kauacordeirodev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/kau%C3%A3-dos-santos-cordeiro-b47bb529a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
