@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Ol%C3%A1!+Eu+sou+o+Kau%C3%A3+Cordi;Seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Ol%C3%A1!+Eu+sou+Kau%C3%A3+Cordeiro;Seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 ###
 
