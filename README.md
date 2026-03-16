@@ -1,6 +1,4 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+Kau%C3%A3+Cordeiro;Seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Ol%C3%A1!+Eu+sou+o+Kau%C3%A3+Cordeiro;Seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 ## Sobre mim
 
@@ -40,5 +38,3 @@
 
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kauacordeirodev&show_icons=true&theme=tokyonight"/>
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=kauacordeirodev&theme=tokyonight"/>
-
-</div>
